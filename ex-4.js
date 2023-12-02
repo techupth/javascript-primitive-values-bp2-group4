@@ -4,4 +4,4 @@
 let numberOfSoldProduct = 12000;
 let numberOfProductInStock = undefined;
 
-console.log((numberOfSoldProduct / numberOfProductInStock) * 100);
+console.log((numberOfSoldProduct / numberOfProductInStock) * 100); // it will show NaN because numberOfProductInStock is not number
